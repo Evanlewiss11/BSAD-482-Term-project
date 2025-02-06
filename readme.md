@@ -1,8 +1,8 @@
-**Climate Change Impact Analysis Project**
+##**Climate Change Impact Analysis Project**
 
 A Data-Driven Approach to Understanding Global Climate Change Trends blah
 
-**Executive Summary**
+##**Executive Summary**
 
 This project investigates the multifaceted impacts of climate change on global weather patterns, focusing on temperature fluctuations, sea level rise, and the increasing frequency and intensity of extreme weather events. Climate change is one of the most pressing challenges of the 21st century, affecting ecosystems, human health, economic stability, and global security. The urgency to address climate change stems from its widespread consequences, including rising global temperatures, shrinking ice sheets, ocean acidification, and biodiversity loss. These changes not only threaten natural habitats but also have significant implications for agriculture, water resources, and human settlements.
 
