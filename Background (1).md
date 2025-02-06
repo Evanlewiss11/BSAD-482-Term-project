@@ -1,5 +1,7 @@
 # **Understanding Climate Change: Impact, Trends, and Mitigation Strategies**
 
+*By:Evan Lewis*
+
 A Data-Driven Approach to Global Climate Change
 
 ## **Problem Context**
