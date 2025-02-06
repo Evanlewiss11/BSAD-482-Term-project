@@ -1,6 +1,6 @@
-[Background (1).md](https://github.com/user-attachments/files/18694748/Background.1.md)## **Climate Change Impact Analysis Project**
+## **Climate Change Impact Analysis Project**
 
-A Data-Driven Approach to Understanding Global Climate Change Trends blah
+A Data-Driven Approach to Understanding Global Climate Change Trends 
 
 ## **Executive Summary**
 
