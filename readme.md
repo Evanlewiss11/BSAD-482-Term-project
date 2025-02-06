@@ -12,7 +12,7 @@ By examining historical climate data and projecting future trends, we seek to un
 
 Ultimately, our goal is to contribute to the global effort to combat climate change by providing actionable insights and fostering greater awareness of the urgent need for climate action. This project underscores the importance of data-driven decision-making in addressing one of humanity's most critical challenges.
 
-**Key Performance Indicators (KPIs)**
+## **Key Performance Indicators (KPIs)**
 
 1\. Global Temperature Anomaly Index (GTAI)  
    \- Percentage change in average global temperature deviations from historical baselines.    
