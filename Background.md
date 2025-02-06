@@ -24,17 +24,17 @@ This project aims to:
 ## **Potential Datasets**
 
 * **NASA Global Climate Change Data**  
-  * *Source:* [https://climate.nasa.gov/](https://climate.nasa.gov/)  
+1.  * *Source:* [https://climate.nasa.gov/](https://climate.nasa.gov/)  
   * *Contents:* Global temperature records, greenhouse gas concentrations, sea level data  
   * *Temporal coverage:* 1880–present  
   * *Geographic scope:* Global  
 * **NOAA Climate Data Online (CDO)**  
-  * *Source:* https://www.ncdc.noaa.gov/cdo-web/  
+2.  * *Source:* https://www.ncdc.noaa.gov/cdo-web/  
   * *Contents:* Historical weather and climate data, including temperature, precipitation, and extreme weather events  
   * *Temporal coverage:* 1900–present  
   * *Geographic scope:* Global  
 * **Intergovernmental Panel on Climate Change (IPCC) Data**  
-  * *Source:* https://www.ipcc.ch/data/  
+3.  * *Source:* https://www.ipcc.ch/data/  
   * *Contents:* Climate projections, emissions scenarios, impact assessments  
   * *Temporal coverage:* 1950–present  
   * *Geographic scope:* Global
