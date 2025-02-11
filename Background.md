@@ -17,21 +17,21 @@ The study of climate change is critical for several reasons. Climate change affe
 This project aims to:
 
 1. Analyze historical and current climate data to identify trends and patterns in global temperature changes, sea-level rise, and extreme weather events.  
-2. Evaluate the effectiveness of existing climate mitigation strategies and identify areas for improvement.  
-3. Assess the socio-economic impacts of climate change on different regions and populations.  
-4. Propose data-driven recommendations for policymakers, businesses, and communities to enhance climate resilience and reduce the risks associated with a warming planet.
+2. Evaluate the effectiveness<mark>how?  this would be hard to do, consider removing</mark> of existing climate mitigation strategies and identify areas for improvement.  
+3. Assess the socio-economic impacts of climate change on different regions and populations.  <mark>you don't have these as KPIs, consider removing this</mark>
+4. Propose data-driven recommendations for policymakers, businesses, and communities to enhance climate resilience <mark>this would require having evidence of an impact of mitigation strategies, consider removing</mark> and reduce the risks associated with a warming planet.
 
 ## **Potential Datasets**
 
 * **NASA Global Climate Change Data**  
 1.  * *Source:* [https://climate.nasa.gov/](https://climate.nasa.gov/)  
   * *Contents:* Global temperature records, greenhouse gas concentrations, sea level data  
-  * *Temporal coverage:* 1880–present  
+  * *Temporal coverage:* 1880–present  <mark>yearly?</mark>
   * *Geographic scope:* Global  
 * **NOAA Climate Data Online (CDO)**  
 2.  * *Source:* https://www.ncdc.noaa.gov/cdo-web/  
   * *Contents:* Historical weather and climate data, including temperature, precipitation, and extreme weather events  
-  * *Temporal coverage:* 1900–present  
+  * *Temporal coverage:* 1900–present  <mark>yearly?</mark>
   * *Geographic scope:* Global  
 * **Intergovernmental Panel on Climate Change (IPCC) Data**  
 3.  * *Source:* https://www.ipcc.ch/data/  

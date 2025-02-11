@@ -2,27 +2,33 @@
 
 A Data-Driven Approach to Understanding Global Climate Change Trends 
 
+*By: Evan Lewis*
+
 ## **Executive Summary**
 
 This project investigates the multifaceted impacts of climate change on global weather patterns, focusing on temperature fluctuations, sea level rise, and the increasing frequency and intensity of extreme weather events. Climate change is one of the most pressing challenges of the 21st century, affecting ecosystems, human health, economic stability, and global security. The urgency to address climate change stems from its widespread consequences, including rising global temperatures, shrinking ice sheets, ocean acidification, and biodiversity loss. These changes not only threaten natural habitats but also have significant implications for agriculture, water resources, and human settlements.
 
-Through comprehensive data analysis, we aim to identify key trends, predict future climate scenarios, and recommend mitigation and adaptation strategies. This project leverages datasets from reputable climate organizations, such as NASA, NOAA, and the Intergovernmental Panel on Climate Change (IPCC), to provide evidence-based insights into the current state of the climate. Our approach integrates advanced statistical analysis with data visualization techniques to uncover critical insights into climate change and its far-reaching effects.
+Through comprehensive data analysis, we aim to identify key trends, predict future climate scenarios<mark>This one might be tough</mark>, and recommend mitigation and adaptation strategies. This project leverages datasets from reputable climate organizations, such as NASA, NOAA, and the Intergovernmental Panel on Climate Change (IPCC), to provide evidence-based insights into the current state of the climate. Our approach integrates ~~advanced~~ statistical analysis with data visualization techniques to uncover critical insights into climate change and its far-reaching effects.
 
-By examining historical climate data and projecting future trends, we seek to understand the drivers of climate change and their impacts on different regions of the world. This analysis will help policymakers, researchers, and the public make informed decisions to reduce greenhouse gas emissions, enhance climate resilience, and promote sustainable development. Additionally, the project will explore the social and economic dimensions of climate change, highlighting vulnerable populations and regions disproportionately affected by climate-related hazards.
+By examining historical climate data and projecting future trends, we seek to understand the drivers of climate change and their impacts on different regions of the world. This analysis will help policymakers, researchers, and the public make informed decisions to reduce greenhouse gas emissions, enhance climate resilience, and promote sustainable development. <mark>Too much...~~Additionally, the project will explore the social and economic dimensions of climate change, highlighting vulnerable populations and regions disproportionately affected by climate-related hazards.~~</mark>
 
 Ultimately, our goal is to contribute to the global effort to combat climate change by providing actionable insights and fostering greater awareness of the urgent need for climate action. This project underscores the importance of data-driven decision-making in addressing one of humanity's most critical challenges.
 
-[Read detailed background information here] [Uploading Background (1).md…]()
+[Read detailed background information here] [Background.md]()
 
 ## **Key Performance Indicators (KPIs)**
 
-1\. Global Temperature Anomaly Index (GTAI)  
-   \- Percentage change in average global temperature deviations from historical baselines.    
-   \- Target: Limit temperature rise to below 1.5°C above pre-industrial levels.    
-   \- Baseline: Current increase of approximately 1.1°C.
+1. Global Temperature Anomaly Index (GTAI)  
+<mark>Put a value statement here.. eg. what value can we achieve by knowing this.. for example, knowing leads to mitigation....</mark>
+   - Percentage change in average global temperature deviations from historical baselines.    
+   - Target: Limit temperature rise to below 1.5°C above pre-industrial levels.    
+   - Baseline: Current increase of approximately 1.1°C.
+   - Frequency: <mark>Monthly?</mark>
+
+<mark>fix up markdown</mark>
 
 2\. \*\*Sea Level Rise Rate (SLRR)\*\*    
-   \- Measures the rate of global sea level rise annually.    
+   <mark>\- see above</mark> Measures the rate of global sea level rise annually.    
    \- Target: Stabilize sea level rise through emission reductions.    
    \- Monitoring: Annual satellite-based measurements.
 
@@ -40,6 +46,8 @@ Ultimately, our goal is to contribute to the global effort to combat climate cha
    \- Measures the percentage of global energy consumption from renewable sources.    
    \- Target: Reach 50% renewable energy usage globally by 2030\.    
    \- Tracking: Annual energy reports from international organizations.
+
+   <mark>You should include a few others like CO2 emissions or GDP, this could give you a better story to tell eg. causaility or at least lead indicators</mark>
 
 * 
 
