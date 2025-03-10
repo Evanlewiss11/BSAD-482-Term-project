@@ -54,3 +54,29 @@ Ultimately, our goal is to contribute to global efforts to combat climate change
 These additional indicators provide a more **comprehensive understanding of climate change drivers and their interdependencies**, strengthening our ability to establish causality in climate trends.
 
 
+## Data Visualizations
+
+### 1. World Annual CO₂ Emissions
+![World Annual CO₂ Emissions](Data_Graphs/C02.png)
+
+The graph above shows the trend of annual CO₂ emissions per capita from 1750 to 2023. The data highlights the rapid increase in emissions since the Industrial Revolution, with a significant acceleration after 1950. This trend reflects the growing global reliance on fossil fuels for energy production, transportation, and industrial activities. The fluctuations in recent years may indicate policy interventions, economic slowdowns, or shifts towards renewable energy sources.
+
+### 2. Renewable Energy Adoption
+![Renewable Energy Adoption](Data_Graphs/Energy.png)
+
+This graph tracks the percentage of global energy consumption sourced from renewables from 1965 to 2023. The data shows a slow increase in renewable energy adoption until the early 2000s, after which growth accelerated significantly. This trend aligns with global efforts to transition to sustainable energy sources, driven by advancements in technology, government incentives, and growing awareness of climate change. The sharp rise in recent years suggests an increasing commitment to reducing carbon emissions.
+
+### 3. Global Sea Levels Rising
+![Global Sea Levels Rising](Data_Graphs/Global Sea levels rising.png)
+
+The visualization presents global sea level changes relative to the 1993–2008 average. The steady increase since the early 1900s highlights the impact of climate change, particularly the melting of polar ice caps and thermal expansion of seawater due to rising temperatures. The trend underscores the long-term environmental consequences of global warming, posing risks such as coastal erosion, increased flooding, and habitat loss for marine and coastal communities.
+
+### 4. Severe Storms and Fatalities (Tornadoes)
+![Severe Storms](Data_Graphs/Severe storms.png)
+
+This graph illustrates the frequency of severe storms (tornadoes) and associated fatalities from 1950 to 2023. The data shows high variability, with spikes in storm activity and fatalities occurring in certain years. While improvements in forecasting and warning systems have reduced fatalities in recent decades, the overall increase in storm frequency may be linked to climate change. The correlation between storm activity and fatalities suggests that preparedness and infrastructure improvements play a crucial role in mitigating disaster impacts.
+
+### 5. Global Temperature Anomalies vs CO₂ Emissions
+![Global Temperature vs CO₂](Data_Graphs/Temperature_vs_co2.png)
+
+This graph compares global temperature anomalies with CO₂ emissions from 1880 to 2023. The clear upward trend in both datasets suggests a strong correlation between rising CO₂ levels and increasing global temperatures. While natural climate variability plays a role, the data supports scientific consensus that human-induced emissions are a primary driver of global warming. The accelerated rise in both metrics over the past few decades emphasizes the urgency of emission reduction strategies to curb climate change.
