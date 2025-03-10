@@ -67,12 +67,12 @@ The graph above shows the trend of annual CO₂ emissions per capita from 1750 t
 This graph tracks the percentage of global energy consumption sourced from renewables from 1965 to 2023. The data shows a slow increase in renewable energy adoption until the early 2000s, after which growth accelerated significantly. This trend aligns with global efforts to transition to sustainable energy sources, driven by advancements in technology, government incentives, and growing awareness of climate change. The sharp rise in recent years suggests an increasing commitment to reducing carbon emissions.
 
 ### 3. Global Sea Levels Rising
-![Global Sea Levels Rising](Data_Graphs/Global Sea levels rising.png)
+![Global Sea Levels Rising](Data_Graphs/Global_Sea_levels_rising.png)
 
 The visualization presents global sea level changes relative to the 1993–2008 average. The steady increase since the early 1900s highlights the impact of climate change, particularly the melting of polar ice caps and thermal expansion of seawater due to rising temperatures. The trend underscores the long-term environmental consequences of global warming, posing risks such as coastal erosion, increased flooding, and habitat loss for marine and coastal communities.
 
 ### 4. Severe Storms and Fatalities (Tornadoes)
-![Severe Storms](Data_Graphs/Severe storms.png)
+![Severe Storms](Data_Graphs/Severe_storms.png)
 
 This graph illustrates the frequency of severe storms (tornadoes) and associated fatalities from 1950 to 2023. The data shows high variability, with spikes in storm activity and fatalities occurring in certain years. While improvements in forecasting and warning systems have reduced fatalities in recent decades, the overall increase in storm frequency may be linked to climate change. The correlation between storm activity and fatalities suggests that preparedness and infrastructure improvements play a crucial role in mitigating disaster impacts.
 
