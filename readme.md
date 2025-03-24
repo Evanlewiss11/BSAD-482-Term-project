@@ -82,6 +82,6 @@ This graph illustrates the frequency of severe storms (tornadoes) and associated
 This graph compares global temperature anomalies with CO₂ emissions from 1880 to 2023. The clear upward trend in both datasets suggests a strong correlation between rising CO₂ levels and increasing global temperatures. While natural climate variability plays a role, the data supports scientific consensus that human-induced emissions are a primary driver of global warming. The accelerated rise in both metrics over the past few decades emphasizes the urgency of emission reduction strategies to curb climate change.
 
 ### 6. Regression Analysis: CO₂ Emissions vs. Global Temperatures
-![Regression Analysis](Data_Graphs/regression_analysis.png)
+![Regression Analysis](Data_Graphs/Regression analysis.png)
 
 This regression analysis explores the relationship between global CO₂ emissions and global temperature anomalies from 1880 to 2023. The model yields an R-squared value of 0.87, indicating that 87% of the variation in temperature anomalies can be explained by CO₂ emissions. The coefficient for CO₂ emissions is both positive and statistically significant (p < 0.001), confirming a strong linear relationship. In other words, as CO₂ emissions rise, global temperatures tend to increase. This supports the broader scientific consensus that human-driven emissions are a key contributor to climate change.
