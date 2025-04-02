@@ -85,3 +85,17 @@ This graph compares global temperature anomalies with CO₂ emissions from 1880 
 ![Regression Analysis](Data_Graphs/Regression_analysis.png)
 
 This regression analysis explores the relationship between global CO₂ emissions and global temperature anomalies from 1880 to 2023. The model yields an R-squared value of 0.87, indicating that 87% of the variation in temperature anomalies can be explained by CO₂ emissions. The coefficient for CO₂ emissions is both positive and statistically significant (p < 0.001), confirming a strong linear relationship. In other words, as CO₂ emissions rise, global temperatures tend to increase. This supports the broader scientific consensus that human-driven emissions are a key contributor to climate change.
+
+## Regression Analysis Raw Code:
+from google.colab import files
+files.upload()
+import pandas as pd
+df = pd.read_csv("merged_temperature_co2_data (1).csv")
+df.head()
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+X = df["CO2_Emissions_Million_Tons"]
+y = df["Global_Temperature_Anomaly_C"]
+X = sm.add_constant(X)
+model = sm.OLS(y, X).fit()
+print(model.summary())
