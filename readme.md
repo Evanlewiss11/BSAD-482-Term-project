@@ -88,29 +88,29 @@ This regression analysis explores the relationship between global CO₂ emission
 
 ## Regression Analysis Raw Code:
 
- Import necessary libraries
+ **Import necessary libraries**
 from google.colab import files
 import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
-Upload dataset
+**Upload dataset**
 files.upload()
 
-Load the dataset
+**Load the dataset**
 df = pd.read_csv("merged_temperature_co2_data (1).csv")
 df.head()
 
- Define the independent and dependent variables
+** Define the independent and dependent variables**
 X = df["CO2_Emissions_Million_Tons"]
 y = df["Global_Temperature_Anomaly_C"]
 
- Add a constant to the independent variable for the intercept
+**Add a constant to the independent variable for the intercept**
 X = sm.add_constant(X)
 
- Fit the OLS regression model
+** Fit the OLS regression model**
 model = sm.OLS(y, X).fit()
 
- Display the regression results
+**Display the regression results**
 print(model.summary())
 
